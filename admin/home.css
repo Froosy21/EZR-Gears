@@ -1,0 +1,111 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    height: 100vh;
+    background-color: #f4f4f9;
+}
+
+/* Sidebar Styles */
+.sidebar {
+    width: 250px;
+    background-color: #640f0f;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2px;
+    height: 100%;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    position: fixed;
+}
+
+.sidebar h2 {
+    margin: 0 0 20px;
+    font-size: 24px;
+    text-align: center;
+    border-bottom: 20px solid #582e2e;
+    padding-bottom: 1000px;
+    width: 100%;
+    position: fixed;
+}
+
+/* Menu Styles */
+.menu {
+    width: 100%;
+}
+
+.menu a {
+    display: block;
+    padding: 15px 20px;
+    margin: 5px 0;
+    background-color: #941414;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+
+.menu a:hover {
+    background-color: #000000;
+}
+
+/* Line Separator */
+.menu hr {
+    border: none;
+    border-top: 1px solid #fafafa;
+    margin: 10px 0;
+}
+
+/* Main Content */
+.content {
+    flex-grow: 1;
+    padding: 20px;
+}
+/* Logo Section in Sidebar */
+.logo {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.logo img {
+    max-width: 50%;
+    height: 2;
+    max-height: 100px; /* Adjust the maximum height as needed */
+    border-radius: 10px; /* Optional for rounded edges */
+}
+h3 {
+    color: #3498db; /* Change this to your desired color */
+}
+/* Product Name Style (optional) */
+.product-name {
+    font-size: 16px;
+}
+
+/* Product Price Style */
+.product-price {
+    font-weight: bold;
+    color: black;
+    font-size: 16px; /* Adjust font size if needed */
+    margin-left: 10px; /* Add spacing between name and price */
+}
+
+/* Main Content Styling */
+.main-content {
+    margin-left: 220px; /* Adjust based on your sidebar width */
+    padding: 20px;
+}
+
+.product {
+    margin-bottom: 10px;
+}
+h3 {
+    color: #4CAF50; /* Replace this with your preferred color (e.g., green) */
+    font-weight: bold; /* Optional: Ensure the font is bold */
+}
+
