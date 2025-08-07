@@ -1,0 +1,4 @@
+[11-Jan-2025 22:49:33 UTC] PHP Warning:  Undefined array key "username" in /home/c23kz7w8cx7v/public_html/EzRebornProgram/LogReg/login.php on line 10
+[11-Jan-2025 22:56:33 UTC] PHP Warning:  Undefined array key "email" in /home/c23kz7w8cx7v/public_html/EzRebornProgram/LogReg/login.php on line 10
+[11-Jan-2025 22:56:36 UTC] PHP Warning:  Undefined array key "email" in /home/c23kz7w8cx7v/public_html/EzRebornProgram/LogReg/login.php on line 10
+[11-Jan-2025 22:56:54 UTC] PHP Warning:  Undefined array key "email" in /home/c23kz7w8cx7v/public_html/EzRebornProgram/LogReg/login.php on line 10
