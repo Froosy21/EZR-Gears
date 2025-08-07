@@ -1,0 +1,1183 @@
+2025-01-11 17:53:55 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 2001,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-11 17:53:55 - PayMongo Response
+{
+    "data": {
+        "id": "link_XMHURCj8MQq4nc2jny7GvgvB",
+        "type": "link",
+        "attributes": {
+            "amount": 200100,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/9DvmYFD",
+            "reference_number": "9DvmYFD",
+            "created_at": 1736618035,
+            "updated_at": 1736618035,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 17:53:55 - Payment Link Created
+{
+    "link_id": "link_XMHURCj8MQq4nc2jny7GvgvB",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 17:53:55 - Order created successfully, redirecting to checkout
+{
+    "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/9DvmYFD"
+}
+----------------------------------------
+2025-01-11 18:11:20 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 4197,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-11 18:11:20 - PayMongo Response
+{
+    "data": {
+        "id": "link_xwhgL3Jogyje5AQMDAfHFz8k",
+        "type": "link",
+        "attributes": {
+            "amount": 419700,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/vw4pnPY",
+            "reference_number": "vw4pnPY",
+            "created_at": 1736619080,
+            "updated_at": 1736619080,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 18:11:20 - Payment Link Created
+{
+    "link_id": "link_xwhgL3Jogyje5AQMDAfHFz8k",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 18:11:20 - Order created successfully, redirecting to checkout
+{
+    "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/vw4pnPY"
+}
+----------------------------------------
+2025-01-11 18:19:42 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 3549,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-11 18:19:42 - PayMongo Response
+{
+    "data": {
+        "id": "link_T7eB1MrwP3hcNHiMVKcB69Gc",
+        "type": "link",
+        "attributes": {
+            "amount": 354900,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/TwupMma",
+            "reference_number": "TwupMma",
+            "created_at": 1736619582,
+            "updated_at": 1736619582,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 18:19:42 - Payment Link Created
+{
+    "link_id": "link_T7eB1MrwP3hcNHiMVKcB69Gc",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 18:19:42 - Order created successfully, redirecting to checkout
+{
+    "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/TwupMma"
+}
+----------------------------------------
+2025-01-11 18:41:08 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 3549,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-11 18:41:08 - PayMongo Response
+{
+    "data": {
+        "id": "link_5KZw9VEtwzRWvodHZY4pJ4nK",
+        "type": "link",
+        "attributes": {
+            "amount": 354900,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/oXRWteh",
+            "reference_number": "oXRWteh",
+            "created_at": 1736620868,
+            "updated_at": 1736620868,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 18:41:08 - Payment Link Created
+{
+    "link_id": "link_5KZw9VEtwzRWvodHZY4pJ4nK",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 18:41:08 - Order created successfully, redirecting to checkout
+{
+    "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/oXRWteh"
+}
+----------------------------------------
+2025-01-11 18:46:24 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 3498,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-11 18:46:25 - PayMongo Response
+{
+    "data": {
+        "id": "link_9e5EJRiKULamCkRaPXnwVs75",
+        "type": "link",
+        "attributes": {
+            "amount": 349800,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/C28L34b",
+            "reference_number": "C28L34b",
+            "created_at": 1736621185,
+            "updated_at": 1736621185,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 18:46:25 - Payment Link Created
+{
+    "link_id": "link_9e5EJRiKULamCkRaPXnwVs75",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 18:46:25 - Order Creation Error
+{
+    "error": "Column 'price' cannot be null"
+}
+----------------------------------------
+2025-01-11 18:46:37 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 3498,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-11 18:46:37 - PayMongo Response
+{
+    "data": {
+        "id": "link_Mx86UQMwjSEUoGXrga5gDhgi",
+        "type": "link",
+        "attributes": {
+            "amount": 349800,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/SKew15U",
+            "reference_number": "SKew15U",
+            "created_at": 1736621197,
+            "updated_at": 1736621197,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 18:46:37 - Payment Link Created
+{
+    "link_id": "link_Mx86UQMwjSEUoGXrga5gDhgi",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 18:46:37 - Order Creation Error
+{
+    "error": "Column 'price' cannot be null"
+}
+----------------------------------------
+2025-01-11 18:46:49 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 3498,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-11 18:46:49 - PayMongo Response
+{
+    "data": {
+        "id": "link_Ef6Vurqj5w7uC6uSg1SwNpyx",
+        "type": "link",
+        "attributes": {
+            "amount": 349800,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/SqwVQzx",
+            "reference_number": "SqwVQzx",
+            "created_at": 1736621209,
+            "updated_at": 1736621209,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 18:46:49 - Payment Link Created
+{
+    "link_id": "link_Ef6Vurqj5w7uC6uSg1SwNpyx",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 18:46:49 - Order Creation Error
+{
+    "error": "Column 'price' cannot be null"
+}
+----------------------------------------
+2025-01-11 18:48:05 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 3498,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-11 18:48:05 - PayMongo Response
+{
+    "data": {
+        "id": "link_3cyaFm8c9n1tbNjqRpguq81P",
+        "type": "link",
+        "attributes": {
+            "amount": 349800,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/kbbx6gF",
+            "reference_number": "kbbx6gF",
+            "created_at": 1736621285,
+            "updated_at": 1736621285,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 18:48:05 - Payment Link Created
+{
+    "link_id": "link_3cyaFm8c9n1tbNjqRpguq81P",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 18:48:05 - Order Creation Error
+{
+    "error": "Column 'price' cannot be null"
+}
+----------------------------------------
+2025-01-11 18:48:08 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 3498,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-11 18:48:08 - PayMongo Response
+{
+    "data": {
+        "id": "link_VLW4Nvhb2RRqqLXg1m61pzde",
+        "type": "link",
+        "attributes": {
+            "amount": 349800,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/54azsYv",
+            "reference_number": "54azsYv",
+            "created_at": 1736621288,
+            "updated_at": 1736621288,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 18:48:08 - Payment Link Created
+{
+    "link_id": "link_VLW4Nvhb2RRqqLXg1m61pzde",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 18:48:08 - Order Creation Error
+{
+    "error": "Column 'price' cannot be null"
+}
+----------------------------------------
+2025-01-11 18:48:16 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 3498,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-11 18:48:16 - PayMongo Response
+{
+    "data": {
+        "id": "link_BUexaQoiD2MarzHt7zeYyN3P",
+        "type": "link",
+        "attributes": {
+            "amount": 349800,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/NppvFMA",
+            "reference_number": "NppvFMA",
+            "created_at": 1736621296,
+            "updated_at": 1736621296,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 18:48:16 - Payment Link Created
+{
+    "link_id": "link_BUexaQoiD2MarzHt7zeYyN3P",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 18:48:16 - Order Creation Error
+{
+    "error": "Column 'price' cannot be null"
+}
+----------------------------------------
+2025-01-11 19:15:13 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 3498,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-11 19:15:14 - PayMongo Response
+{
+    "data": {
+        "id": "link_bNVZ1zxbxt1UrrafoS1YMcaY",
+        "type": "link",
+        "attributes": {
+            "amount": 349800,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/iEHSx9r",
+            "reference_number": "iEHSx9r",
+            "created_at": 1736622914,
+            "updated_at": 1736622914,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 19:15:14 - Payment Link Created
+{
+    "link_id": "link_bNVZ1zxbxt1UrrafoS1YMcaY",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 19:15:14 - Order Creation Error
+{
+    "error": "Unknown column 'product_name' in 'INSERT INTO'"
+}
+----------------------------------------
+2025-01-11 19:17:03 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 3498,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-11 19:17:03 - PayMongo Response
+{
+    "data": {
+        "id": "link_exdcRnXCBkSG1tcoKqd3ESGx",
+        "type": "link",
+        "attributes": {
+            "amount": 349800,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/1dUTJRG",
+            "reference_number": "1dUTJRG",
+            "created_at": 1736623023,
+            "updated_at": 1736623023,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 19:17:03 - Payment Link Created
+{
+    "link_id": "link_exdcRnXCBkSG1tcoKqd3ESGx",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 19:17:03 - Order created successfully, redirecting to checkout
+{
+    "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/1dUTJRG"
+}
+----------------------------------------
+2025-01-11 19:56:42 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 0,
+    "shipping_fee": 0
+}
+----------------------------------------
+2025-01-11 19:56:42 - PayMongo Response
+{
+    "errors": [
+        {
+            "code": "parameter_below_minimum",
+            "detail": "Please enter an amount at least Php 100.00."
+        }
+    ]
+}
+----------------------------------------
+2025-01-11 19:56:42 - PayMongo Error: Invalid response data
+{
+    "errors": [
+        {
+            "code": "parameter_below_minimum",
+            "detail": "Please enter an amount at least Php 100.00."
+        }
+    ]
+}
+----------------------------------------
+2025-01-11 19:57:29 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 4986,
+    "shipping_fee": 195
+}
+----------------------------------------
+2025-01-11 19:57:29 - PayMongo Response
+{
+    "data": {
+        "id": "link_Hts9b4DqZqcYMfTrwAxLxyeS",
+        "type": "link",
+        "attributes": {
+            "amount": 498600,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/HAGCsEK",
+            "reference_number": "HAGCsEK",
+            "created_at": 1736625449,
+            "updated_at": 1736625449,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 19:57:29 - Payment Link Created
+{
+    "link_id": "link_Hts9b4DqZqcYMfTrwAxLxyeS",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 19:57:29 - Order created successfully, redirecting to checkout
+{
+    "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/HAGCsEK"
+}
+----------------------------------------
+2025-01-11 20:28:15 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 4389,
+    "shipping_fee": 195
+}
+----------------------------------------
+2025-01-11 20:28:16 - PayMongo Response
+{
+    "data": {
+        "id": "link_q77Pk96EswzS3rDttboLEQsQ",
+        "type": "link",
+        "attributes": {
+            "amount": 438900,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/CUCb4HY",
+            "reference_number": "CUCb4HY",
+            "created_at": 1736627296,
+            "updated_at": 1736627296,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 20:28:16 - Payment Link Created
+{
+    "link_id": "link_q77Pk96EswzS3rDttboLEQsQ",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 20:30:22 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 4389,
+    "shipping_fee": 195
+}
+----------------------------------------
+2025-01-11 20:30:22 - PayMongo Response
+{
+    "data": {
+        "id": "link_orncPNFKKQJaYQCPGKNto6Lg",
+        "type": "link",
+        "attributes": {
+            "amount": 438900,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/SVjVN9v",
+            "reference_number": "SVjVN9v",
+            "created_at": 1736627422,
+            "updated_at": 1736627422,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 20:30:22 - Payment Link Created
+{
+    "link_id": "link_orncPNFKKQJaYQCPGKNto6Lg",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 20:31:08 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 4389,
+    "shipping_fee": 195
+}
+----------------------------------------
+2025-01-11 20:31:08 - PayMongo Response
+{
+    "data": {
+        "id": "link_7R9bXwFMT21ipobw4qqwM4qN",
+        "type": "link",
+        "attributes": {
+            "amount": 438900,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/yNsbFkk",
+            "reference_number": "yNsbFkk",
+            "created_at": 1736627468,
+            "updated_at": 1736627468,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 20:31:08 - Payment Link Created
+{
+    "link_id": "link_7R9bXwFMT21ipobw4qqwM4qN",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-11 20:34:10 - Starting payment process
+{
+    "email": "jourziejourzie@gmail.com",
+    "amount": 1254,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-11 20:34:11 - PayMongo Response
+{
+    "data": {
+        "id": "link_co1iQk4Hvvxcp7jBKA9chi9K",
+        "type": "link",
+        "attributes": {
+            "amount": 125400,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jourziejourzie@gmail.com",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/KxwCaQW",
+            "reference_number": "KxwCaQW",
+            "created_at": 1736627651,
+            "updated_at": 1736627651,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 20:34:11 - Payment Link Created
+{
+    "link_id": "link_co1iQk4Hvvxcp7jBKA9chi9K",
+    "email": "jourziejourzie@gmail.com"
+}
+----------------------------------------
+2025-01-11 20:36:16 - Starting payment process
+{
+    "email": "villanuevakarl727@gmail.com",
+    "amount": 1452,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-11 20:36:16 - PayMongo Response
+{
+    "data": {
+        "id": "link_m1csdYdUHSFHwT6HEYV3kVwt",
+        "type": "link",
+        "attributes": {
+            "amount": 145200,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for villanuevakarl727@gmail.com",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/JDRFKhM",
+            "reference_number": "JDRFKhM",
+            "created_at": 1736627776,
+            "updated_at": 1736627776,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-11 20:36:16 - Payment Link Created
+{
+    "link_id": "link_m1csdYdUHSFHwT6HEYV3kVwt",
+    "email": "villanuevakarl727@gmail.com"
+}
+----------------------------------------
+2025-01-12 06:13:35 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 1363,
+    "shipping_fee": 115
+}
+----------------------------------------
+2025-01-12 06:13:35 - PayMongo Response
+{
+    "data": {
+        "id": "link_3e5WLgEKAS31jpJGJHsqkyTL",
+        "type": "link",
+        "attributes": {
+            "amount": 136300,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/W6jdJpi",
+            "reference_number": "W6jdJpi",
+            "created_at": 1736662415,
+            "updated_at": 1736662415,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-12 06:13:35 - Payment Link Created
+{
+    "link_id": "link_3e5WLgEKAS31jpJGJHsqkyTL",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-12 06:26:52 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 1153,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-12 06:26:53 - PayMongo Response
+{
+    "data": {
+        "id": "link_PFyPWxUagccnfYNdbT9hF52D",
+        "type": "link",
+        "attributes": {
+            "amount": 115300,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/xUTQaU2",
+            "reference_number": "xUTQaU2",
+            "created_at": 1736663212,
+            "updated_at": 1736663212,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-12 06:26:53 - Payment Link Created
+{
+    "link_id": "link_PFyPWxUagccnfYNdbT9hF52D",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-14 15:09:21 - Starting payment process
+{
+    "email": "villanuevakarl727@gmail.com",
+    "amount": 799,
+    "shipping_fee": 100
+}
+----------------------------------------
+2025-01-14 15:09:21 - PayMongo Response
+{
+    "data": {
+        "id": "link_j3RfawBZuSG24odrm2sbjntP",
+        "type": "link",
+        "attributes": {
+            "amount": 79900,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for villanuevakarl727@gmail.com",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/nKCUphS",
+            "reference_number": "nKCUphS",
+            "created_at": 1736867361,
+            "updated_at": 1736867361,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-14 15:09:21 - Payment Link Created
+{
+    "link_id": "link_j3RfawBZuSG24odrm2sbjntP",
+    "email": "villanuevakarl727@gmail.com"
+}
+----------------------------------------
+2025-01-14 15:29:14 - Starting payment process
+{
+    "email": "villanuevakarl727@gmail.com",
+    "amount": 804,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-14 15:29:14 - PayMongo Response
+{
+    "data": {
+        "id": "link_eS8hqPQjG6MeJAAdAGovoajE",
+        "type": "link",
+        "attributes": {
+            "amount": 80400,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for villanuevakarl727@gmail.com",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/qR4M2sj",
+            "reference_number": "qR4M2sj",
+            "created_at": 1736868554,
+            "updated_at": 1736868554,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-14 15:29:14 - Payment Link Created
+{
+    "link_id": "link_eS8hqPQjG6MeJAAdAGovoajE",
+    "email": "villanuevakarl727@gmail.com"
+}
+----------------------------------------
+2025-01-14 15:34:43 - Starting payment process
+{
+    "email": "villanuevakarl727@gmail.com",
+    "amount": 599,
+    "shipping_fee": 100
+}
+----------------------------------------
+2025-01-14 15:34:43 - PayMongo Response
+{
+    "data": {
+        "id": "link_xihTqv5rXdainBMSiTUeK4uP",
+        "type": "link",
+        "attributes": {
+            "amount": 59900,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for villanuevakarl727@gmail.com",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/B9FyByR",
+            "reference_number": "B9FyByR",
+            "created_at": 1736868883,
+            "updated_at": 1736868883,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-14 15:34:43 - Payment Link Created
+{
+    "link_id": "link_xihTqv5rXdainBMSiTUeK4uP",
+    "email": "villanuevakarl727@gmail.com"
+}
+----------------------------------------
+2025-01-14 17:26:04 - Starting payment process
+{
+    "email": "villanuevakarl727@gmail.com",
+    "amount": 604,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-14 17:26:04 - PayMongo Response
+{
+    "data": {
+        "id": "link_usJgEYRePFbX6aUvtLyCoyNZ",
+        "type": "link",
+        "attributes": {
+            "amount": 60400,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for villanuevakarl727@gmail.com",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/APnR1XH",
+            "reference_number": "APnR1XH",
+            "created_at": 1736875564,
+            "updated_at": 1736875564,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-14 17:26:04 - Payment Link Created
+{
+    "link_id": "link_usJgEYRePFbX6aUvtLyCoyNZ",
+    "email": "villanuevakarl727@gmail.com"
+}
+----------------------------------------
+2025-01-14 17:26:15 - Starting payment process
+{
+    "email": "villanuevakarl727@gmail.com",
+    "amount": 0,
+    "shipping_fee": 0
+}
+----------------------------------------
+2025-01-14 17:26:15 - PayMongo Response
+{
+    "errors": [
+        {
+            "code": "parameter_below_minimum",
+            "detail": "Please enter an amount at least Php 100.00."
+        }
+    ]
+}
+----------------------------------------
+2025-01-14 17:26:15 - PayMongo Error: Invalid response data
+{
+    "errors": [
+        {
+            "code": "parameter_below_minimum",
+            "detail": "Please enter an amount at least Php 100.00."
+        }
+    ]
+}
+----------------------------------------
+2025-01-14 19:58:10 - Starting payment process
+{
+    "email": "villanuevakarl727@gmail.com",
+    "amount": 649,
+    "shipping_fee": 100
+}
+----------------------------------------
+2025-01-14 19:58:10 - PayMongo Response
+{
+    "data": {
+        "id": "link_d9TPQ6khqN39TPvWQDB91tbc",
+        "type": "link",
+        "attributes": {
+            "amount": 64900,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for villanuevakarl727@gmail.com",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/NDZXbpm",
+            "reference_number": "NDZXbpm",
+            "created_at": 1736884690,
+            "updated_at": 1736884690,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-14 19:58:10 - Payment Link Created
+{
+    "link_id": "link_d9TPQ6khqN39TPvWQDB91tbc",
+    "email": "villanuevakarl727@gmail.com"
+}
+----------------------------------------
+2025-01-15 01:20:13 - Starting payment process
+{
+    "email": "jybethjhan.ombina-21@cpu.edu.ph",
+    "amount": 200,
+    "shipping_fee": 200
+}
+----------------------------------------
+2025-01-15 01:20:13 - PayMongo Response
+{
+    "data": {
+        "id": "link_KZbAroJNNkAFCgdZyhU4SejB",
+        "type": "link",
+        "attributes": {
+            "amount": 20000,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for jybethjhan.ombina-21@cpu.edu.ph",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/2HP6WC3",
+            "reference_number": "2HP6WC3",
+            "created_at": 1736904013,
+            "updated_at": 1736904013,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-15 01:20:13 - Payment Link Created
+{
+    "link_id": "link_KZbAroJNNkAFCgdZyhU4SejB",
+    "email": "jybethjhan.ombina-21@cpu.edu.ph"
+}
+----------------------------------------
+2025-01-15 01:46:56 - Starting payment process
+{
+    "email": "gerbyombina21@gmail.com",
+    "amount": 804,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-01-15 01:46:57 - PayMongo Response
+{
+    "data": {
+        "id": "link_vC9F7zamtfK2tdxucgtQxatc",
+        "type": "link",
+        "attributes": {
+            "amount": 80400,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for gerbyombina21@gmail.com",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/uG8xotf",
+            "reference_number": "uG8xotf",
+            "created_at": 1736905617,
+            "updated_at": 1736905617,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-01-15 01:46:57 - Payment Link Created
+{
+    "link_id": "link_vC9F7zamtfK2tdxucgtQxatc",
+    "email": "gerbyombina21@gmail.com"
+}
+----------------------------------------
+2025-02-13 13:02:19 - Starting payment process
+{
+    "email": "gerbyombina21@gmail.com",
+    "amount": 1305,
+    "shipping_fee": 105
+}
+----------------------------------------
+2025-02-13 13:02:19 - PayMongo Response
+{
+    "data": {
+        "id": "link_weKHSzdWTyc3AyUeocz83tiD",
+        "type": "link",
+        "attributes": {
+            "amount": 130500,
+            "archived": false,
+            "currency": "PHP",
+            "description": "Order Payment for gerbyombina21@gmail.com",
+            "livemode": false,
+            "fee": 0,
+            "remarks": null,
+            "status": "unpaid",
+            "tax_amount": null,
+            "taxes": [],
+            "checkout_url": "https:\/\/pm.link\/EZRebornGears\/test\/gFDC3hf",
+            "reference_number": "gFDC3hf",
+            "created_at": 1739451739,
+            "updated_at": 1739451739,
+            "payments": []
+        }
+    }
+}
+----------------------------------------
+2025-02-13 13:02:19 - Payment Link Created
+{
+    "link_id": "link_weKHSzdWTyc3AyUeocz83tiD",
+    "email": "gerbyombina21@gmail.com"
+}
+----------------------------------------
