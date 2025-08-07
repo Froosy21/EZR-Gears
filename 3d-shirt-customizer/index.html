@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EZR Designer 3D</title>
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <header>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
+            <rect width="200" height="60" fill="transparent"/>
+            <text x="10" y="45" font-family="Arial Black, sans-serif" font-size="40" fill="#EF4444" font-weight="bold">
+                EZR
+            </text>
+            <text x="105" y="30" font-family="Arial, sans-serif" font-size="18" fill="#374151">
+                DESIGNER
+            </text>
+            <text x="105" y="50" font-family="Arial Black, sans-serif" font-size="24" fill="#3B82F6" font-weight="bold">
+                3D
+            </text>
+            <path d="M170,15 l10,-5 l10,5 l-10,5 z" fill="#3B82F6"/>
+            <path d="M170,15 l10,5 l0,10 l-10,-5 z" fill="#2563EB"/>
+            <path d="M180,20 l10,-5 l0,10 l-10,5 z" fill="#1D4ED8"/>
+        </svg>
+        <nav>
+            <h1>3D Customizer</h1>
+        </nav>
+    </header>
+    <div class="main-content">
+        <div id="model-container"></div>
+        <div id="fabric-container">
+            <canvas id="fabric-canvas"></canvas>
+        </div>
+    </div>
+
+    <div class="text-controls">
+        <input type="text" id="text-input" placeholder="Enter text">
+        <input type="color" id="text-color" value="#000000">
+        <select id="font-family">
+            <option value="Arial">Arial</option>
+            <option value="Times New Roman">Times New Roman</option>
+            <option value="Helvetica">Helvetica</option>
+        </select>
+        <input type="number" id="font-size" value="24" min="8" max="72">
+        <button onclick="addTextToCanvas()">Add Text</button>
+    </div>
+    <div class="upload-form">
+        <input type="file" id="image-upload" accept="image/*">
+        <button onclick="uploadImage()">Upload Image</button>
+    </div>
+    <div class="controls">
+        <div class="color-sections">
+            <h3>Customize T-Shirt Colors</h3>
+            <div class="color-section">
+                <label for="Torso">Torso:</label>
+                <input type="color" id="Torso" data-part="Torso" value="#ffffff">
+            </div>
+            <div class="color-section">
+                <label for="Sleeve-1">Left Sleeve:</label>
+                <input type="color" id="Sleeve-1" data-part="Sleeve-1" value="#ffffff">
+            </div>
+            <div class="color-section">
+                <label for="Sleeve-2">Right Sleeve:</label>
+                <input type="color" id="Sleeve-2" data-part="Sleeve-2" value="#ffffff">
+            </div>
+        </div>
+    </div>
+    <button id="add-to-cart" onclick="addToCart()">Generate image</button>
+    <h6>Click to generate images and the zip file, please rename it as you wish :)</h6>
+
+    <!-- Button to redirect to 3d_upload.php -->
+    <div class="redirect-button-container">
+        <button id="redirect-button" onclick="redirectToUploadPage()">Go to 3D Upload</button>
+        <h6>Please Click to redirect to the upload page here</h6>
+
+    </div>
+
+    <script type="text/javascript" src="javascripts/three/Detector.js"></script>
+    <script type="text/javascript" src="javascripts/three-min/three.min.js"></script>
+    <script type="text/javascript" src="javascripts/three/LoaderSupport.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fabric.js/460/fabric.min.js" integrity="sha512-ybPp3kCrNQXdvTfh99YLIdnajWnQvHuEKDJ+b26mxI9w+pLhnBo3HmNLJ1pEUBFO1Q0bfJxApeqecNbmaV763g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script type="text/javascript" src="javascripts/three/OrbitControls.js"></script>
+    <script type="text/javascript" src="javascripts/three/OBJLoader2.js"></script>
+    <script type="text/javascript" src="javascripts/three/SVGLoader.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js" integrity="sha512-XMVd28F1oH/O71fzwBnV7HucLxVwtxf26XV8P4wPk26EDxuGZ91N8bsOttmnomcCD3CS5ZMRL50H0GgOHvegtg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script type="text/javascript" src="main.js"></script>
+
+    <script>
+        // JavaScript function to handle the redirection
+        function redirectToUploadPage() {
+            window.location.href = "3d_upload.php";
+        }
+    </script>
+</body>
+</html>
